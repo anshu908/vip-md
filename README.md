@@ -13,11 +13,11 @@ MD Memorial Academy is a co-educational institution committed to providing quali
 
 ## Features
 
-- ʜσϻє ᴘᴧɢє: ɪηᴛꝛσᴅυᴄᴛɪση ᴛσ ϻᴅ ϻєϻσꝛɪᴧʟ ᴧᴄᴧᴅєϻʏ, ɪηᴄʟυᴅɪηɢ συꝛ ᴠɪsɪση ᴧηᴅ ϻɪssɪση.
-- ᴧᴄᴧᴅєϻɪᴄ ᴘꝛσɢꝛᴧϻs: ɪηғσꝛϻᴧᴛɪση ᴧʙσυᴛ ᴛʜє ᴄσυꝛsєs ᴧηᴅ ᴄυꝛꝛɪᴄυʟᴧ σғғєꝛєᴅ.
-- ᴧᴅϻɪssɪσηs: ɢυɪᴅєʟɪηєs ᴧηᴅ ᴘꝛσᴄєᴅυꝛєs ғσꝛ ᴘꝛσsᴘєᴄᴛɪᴠє sᴛυᴅєηᴛs.
-- Ғᴧᴄυʟᴛʏ: ᴘꝛσғɪʟєs σғ συꝛ єxᴘєꝛɪєηᴄєᴅ ᴧηᴅ ᴅєᴅɪᴄᴧᴛєᴅ ᴛєᴧᴄʜɪηɢ sᴛᴧғғ.
-- ᴄσηᴛᴧᴄᴛ υs: ᴅєᴛᴧɪʟs ση ʜσᴡ ᴛσ ꝛєᴧᴄʜ ᴛʜє sᴄʜσσʟ ғσꝛ ɪηǫυɪꝛɪєs.
+- **ʜσϻє ᴘᴧɢє**: ɪηᴛꝛσᴅυᴄᴛɪση ᴛσ ϻᴅ ϻєϻσꝛɪᴧʟ ᴧᴄᴧᴅєϻʏ, ɪηᴄʟυᴅɪηɢ συꝛ ᴠɪsɪση ᴧηᴅ ϻɪssɪση.
+- **ᴧᴄᴧᴅєϻɪᴄ** ᴘꝛσɢꝛᴧϻs: ɪηғσꝛϻᴧᴛɪση ᴧʙσυᴛ ᴛʜє ᴄσυꝛsєs ᴧηᴅ ᴄυꝛꝛɪᴄυʟᴧ σғғєꝛєᴅ.
+- **ᴧᴅϻɪssɪσηs**: ɢυɪᴅєʟɪηєs ᴧηᴅ ᴘꝛσᴄєᴅυꝛєs ғσꝛ ᴘꝛσsᴘєᴄᴛɪᴠє sᴛυᴅєηᴛs.
+- **Ғᴧᴄυʟᴛʏ**: ᴘꝛσғɪʟєs σғ συꝛ єxᴘєꝛɪєηᴄєᴅ ᴧηᴅ ᴅєᴅɪᴄᴧᴛєᴅ ᴛєᴧᴄʜɪηɢ sᴛᴧғғ.
+- **ᴄσηᴛᴧᴄᴛ υs**: ᴅєᴛᴧɪʟs ση ʜσᴡ ᴛσ ꝛєᴧᴄʜ ᴛʜє sᴄʜσσʟ ғσꝛ ɪηǫυɪꝛɪєs.
 ## Getting Started
 
 To view or contribute to the website:
@@ -34,7 +34,7 @@ We welcome contributions to enhance the website. Please fork the repository and 
 
 ## Contact
 
-For any questions or feedback regarding the website, please contact the school administration at [mdvicparaspur@gmail.com](mailto:mdvicparaspur@gmail.com).
+For any questions or feedback regarding the website, please contact the school administration at [mdvicparaspur@gmail.com](mailto:anshppt19@gmail.com).
 
 ---
 
