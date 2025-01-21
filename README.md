@@ -8,13 +8,13 @@
 <p align="center">
 
 
-# **𝗠𝗗 𝗠𝗘𝗠𝗢𝗥𝗜𝗔𝗟 𝗔𝗖𝗔𝗗𝗘𝗠𝗬**
+#𝗠𝗗 𝗠𝗘𝗠𝗢𝗥𝗜𝗔𝗟 𝗔𝗖𝗔𝗗𝗘𝗠𝗬
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 ᴡєʟᴄσϻє ᴛσ ᴛʜє σғғɪᴄɪᴧʟ ꝛєᴘσsɪᴛσꝛʏ ғσꝛ ϻᴅ ϻєϻσꝛɪᴧʟ ᴧᴄᴧᴅєϻʏ's ᴡєʙsɪᴛє. ᴛʜɪs ᴘꝛσᴊєᴄᴛ ᴄσηᴛᴧɪηs ᴛʜє sσυꝛᴄє ᴄσᴅє ᴧηᴅ ꝛєsσυꝛᴄєs ғσꝛ ᴛʜє sᴄʜσσʟ's σηʟɪηє ᴘꝛєsєηᴄє.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-## **𝖠𝖻𝗈𝗎𝗍 𝖬𝖣 𝖬𝖾𝗆𝗈𝗋𝗂𝖺𝗅 𝖠𝖼𝖺𝖽𝖾𝗆𝗒**
+##𝖠𝖻𝗈𝗎𝗍 𝖬𝖣 𝖬𝖾𝗆𝗈𝗋𝗂𝖺𝗅 𝖠𝖼𝖺𝖽𝖾𝗆𝗒
    
 𝗠𝗗 𝗠𝗲𝗺𝗼𝗿𝗶𝗮𝗹 𝗔𝗰𝗮𝗱𝗲𝗺𝘆 𝗶𝘀 𝗮 𝗰𝗼-𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗶𝗼𝗻 𝗰𝗼𝗺𝗺𝗶𝘁𝘁𝗲𝗱 𝘁𝗼 𝗽𝗿𝗼𝘃𝗶𝗱𝗶𝗻𝗴 𝗾𝘂𝗮𝗹𝗶𝘁𝘆 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗳𝗼𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗵𝗼𝗹𝗶𝘀𝘁𝗶𝗰 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗶𝗻 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀. 𝗢𝘂𝗿 𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗶𝘀 𝘁𝗼 𝗻𝘂𝗿𝘁𝘂𝗿𝗲 𝘆𝗼𝘂𝗻𝗴 𝗺𝗶𝗻𝗱𝘀 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗮𝗻𝗱 𝗲𝗻𝗹𝗶𝗴𝗵𝘁𝗲𝗻𝗲𝗱 𝗰𝗶𝘁𝗶𝘇𝗲𝗻𝘀.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -65,7 +65,7 @@ For any questions or feedback regarding the website, please contact the school a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
    
-𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 [𝐀𝐍𝐒𝐇](htttps://www.instagram.com/anshopi__/)
+𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 [𝐀𝐍𝐒𝐇](htttps://www.instagram.com/anshopi__)
 
 ---
 
