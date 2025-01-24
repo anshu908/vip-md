@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>#𝗠𝗗 𝗠𝗘𝗠𝗢𝗥𝗜𝗔𝗟 𝗔𝗖𝗔𝗗𝗘𝗠𝗬</strong>
+  <strong>𝗠𝗗 𝗠𝗘𝗠𝗢𝗥𝗜𝗔𝗟 𝗔𝗖𝗔𝗗𝗘𝗠𝗬</strong>
 </p>
 
 <p align="center">
